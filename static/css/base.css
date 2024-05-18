@@ -1,0 +1,18 @@
+nav .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav .container form {
+    display: flex;
+}
+
+
+
+nav .container form input {
+    margin-right: 10px;
+}
+
+.left {
+    display: flex;
+}
